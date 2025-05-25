@@ -7,7 +7,7 @@
 **>** You can ground multiple leds to one g pin if you don't have space.
 <br>
 **>** You don't need to ground the buzzer with resistor, just connect its cathode to g with any wire.
-<br><br><br>
+<br><br>
 
 ## EXAMPLE VIDEO
 [insert video here]
