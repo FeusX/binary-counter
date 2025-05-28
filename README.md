@@ -10,4 +10,4 @@
 <br><br>
 
 ## EXAMPLE VIDEO
-[insert video here]
+[https://youtu.be/2mjt3E2GQFI]
